@@ -1,13 +1,12 @@
 enablePWA: true
-name: "Jekyll PWA"
-shortName: "jPWA"
-description: "A Great PWA for you to enjoy."
-icon16: "/static-assets/images/icon-16x16.png"
-icon32: "/static-assets/images/icon-32x32.png"
-icon192: "/static-assets/images/icon-192x192.png"
-icon512: "/static-assets/images/icon-512x512.png"
-startUrl: "/"
+name: Alex Kidd in PWA Land
+shortName: Alex Kidd
+startUrl: /
 display: standalone
-bgColour: "#007ac9"
-themeColour: "#0073bd"
-scope: "/"
+bgColour: '#69be29'
+themeColour: '#0073bd'
+scope: /
+icon16: /static-assets/images/uploads/icon-16x16.png
+icon32: /static-assets/images/uploads/icon-32x32.png
+icon192: /static-assets/images/uploads/icon-192x192.png
+icon512: /static-assets/images/uploads/icon-512x512.png
