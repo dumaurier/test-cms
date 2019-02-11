@@ -1,12 +1,12 @@
 enablePWA: true
-name: Alex Kidd in PWA Land
-shortName: Alex Kidd
+name: Go Jays Go
+shortName: Go Jays Go
 startUrl: /
 display: standalone
-bgColour: '#69be29'
-themeColour: '#0073bd'
+bgColour: '#134A8E'
+themeColour: '#134A8E'
 scope: /
-icon16: /static-assets/images/uploads/icon-16x16.png
-icon32: /static-assets/images/uploads/icon-32x32.png
-icon192: /static-assets/images/uploads/icon-192x192.png
-icon512: /static-assets/images/uploads/icon-512x512.png
+icon16: /static-assets/images/uploads/favicon-16x16.png
+icon32: /static-assets/images/uploads/favicon-32x32.png
+icon192: /static-assets/images/uploads/android-chrome-192x192.png
+icon512: /static-assets/images/uploads/android-chrome-512x512.png
